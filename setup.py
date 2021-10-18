@@ -7,13 +7,6 @@ setup(
     license='MIT',
     packages=['ci_course'],
     install_requires=[],
-    extras_require={
-        'docs': [
-            'sphinx'
-        ],
-        'dev': [
-            'flake8',
-        ],
-    },
+    extras_require={'docs': ['sphinx'], 'dev': ['flake8',],},
     zip_safe=False
 )
