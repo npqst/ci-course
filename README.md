@@ -1,6 +1,7 @@
 [![Run unit tests](https://github.com/npqst/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/npqst/ci-course/actions/workflows/unit-tests.yml)
 [![Run on multple OS](https://github.com/npqst/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/npqst/ci-course/actions/workflows/os-tests.yml)
 [![codecov](https://codecov.io/gh/npqst/ci-course/branch/main/graph/badge.svg?token=XLAZW6H4NL)](https://codecov.io/gh/npqst/ci-course)
+[![BCH compliance](https://bettercodehub.com/edge/badge/npqst/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
